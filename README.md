@@ -25,3 +25,22 @@
 3.在图上增强方法也可以尝试采用STN进行仿射变换可以实现类似于attention的效果
 
 感觉好像有点杀猪沿用宰牛刀的感觉-_-，总之，想方设法提升准确率就很有成就感。
+
+补充(2019年11月8日)：最近发现有小伙伴陆陆续续star这个项目，为了方便大家进一步地了解技术的细节，这里把比赛的ppt贴出来了。
+![image](https://github.com/SaulZhang/CAPTCHA-Recognition/blob/master/images/1.png)
+![image](https://github.com/SaulZhang/CAPTCHA-Recognition/blob/master/images/2.png)
+![image](https://github.com/SaulZhang/CAPTCHA-Recognition/blob/master/images/3.png)
+![image](https://github.com/SaulZhang/CAPTCHA-Recognition/blob/master/images/4.png)
+![image](https://github.com/SaulZhang/CAPTCHA-Recognition/blob/master/images/5.png)
+![image](https://github.com/SaulZhang/CAPTCHA-Recognition/blob/master/images/6.png)
+![image](https://github.com/SaulZhang/CAPTCHA-Recognition/blob/master/images/7.png)
+![image](https://github.com/SaulZhang/CAPTCHA-Recognition/blob/master/images/8.png)
+![image](https://github.com/SaulZhang/CAPTCHA-Recognition/blob/master/images/9.png)
+![image](https://github.com/SaulZhang/CAPTCHA-Recognition/blob/master/images/10.png)
+![image](https://github.com/SaulZhang/CAPTCHA-Recognition/blob/master/images/11.png)
+![image](https://github.com/SaulZhang/CAPTCHA-Recognition/blob/master/images/12.png)
+![image](https://github.com/SaulZhang/CAPTCHA-Recognition/blob/master/images/13.png)
+![image](https://github.com/SaulZhang/CAPTCHA-Recognition/blob/master/images/14.png)
+![image](https://github.com/SaulZhang/CAPTCHA-Recognition/blob/master/images/15.png)
+![image](https://github.com/SaulZhang/CAPTCHA-Recognition/blob/master/images/16.png)
+![image](https://github.com/SaulZhang/CAPTCHA-Recognition/blob/master/images/17.png)
